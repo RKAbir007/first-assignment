@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: rgb(250, 248, 248);
+    font-family: 'Poppins', sans-serif;
+}
+.flx{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.half-width{
+    width: 40%;
+    
+
+}
+.half-width img{
+    width: 70%;
+
+
+}
+.orange-color{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    background-color: black;
+    padding: 5px 20px;
+    color: white;
+    border-radius: 5px;
+
+}
+.abir{
+    border-left: 5px solid black;
+    height: 80px;
+    padding-left: 12px;
+    border-radius: 5px;
+    
+}
+
